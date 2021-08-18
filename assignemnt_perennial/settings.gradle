@@ -1,0 +1,2 @@
+rootProject.name = "Perennial_System"
+include ':app'
